@@ -19,25 +19,7 @@ Third-year AI & Data Science student passionate about extracting insights from d
 • 🎯 **Goal:** Complete 4 production-ready data science projects by December 2025  
 • 🔍 **Seeking:** Data Science and Analytics internship opportunities  
 
-## 📈 Featured Projects
 
-**🗺️ AI Trip Planner** - Intelligent travel recommendation system using collaborative filtering  
-**🤖 EduBot** - NLP-powered educational chatbot with sentiment analysis  
-**📧 Spam Classification** - Email filtering system using ensemble methods (95% accuracy)  
-**🏏 IPL Performance Predictor** - Cricket analytics dashboard with real-time predictions  
-
-## 🏆 Achievements
-
-• 🥈 **2nd Place** - National Level Data Science Hackathon  
-• 💼 **Internships** - Infosys Springboard (ML Engineer), Edunet Foundation (Data Analyst)  
-• 👨‍💻 **Leadership** - Administrator of AI Student Association  
-• 📊 **Impact** - Built models serving 1000+ users across 3 live applications  
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavparabhane&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavparabhane&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ## 🎯 2025 Roadmap
 
