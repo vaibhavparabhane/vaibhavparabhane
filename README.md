@@ -2,7 +2,7 @@
 
 🚀 **Data Science & Analytics Enthusiast | AI Innovator | Building Data-Driven Solutions**
 
-Third-year AI & Data Science student passionate about extracting insights from data and building intelligent systems. Currently developing production-ready ML models and actively seeking **Summer 2025 internship opportunities**.
+Final-year AI & Data Science student passionate about extracting insights from data and building intelligent systems. Currently developing production-ready ML models and actively seeking **Summer 2026 internship opportunities**.
 
 ## 🛠️ Tech Stack
 
@@ -27,18 +27,23 @@ Third-year AI & Data Science student passionate about extracting insights from d
 
 
 
-## 🎯 2025 Roadmap
-
-**Q1:** Advanced Statistics & Probability  
-**Q2:** MLOps and Model Deployment  
-**Q3:** Deep Learning Specialization  
-**Q4:** Big Data Technologies (Spark, Hadoop)  
-
 ---
 
-**🔗 Connect with me:**  
-📧 [vaibhav.parabhane@example.com](mailto:vaibhav.parabhane@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/vaibhavparabhane)  
-🐦 [Twitter](https://twitter.com/vaibhavparabhane)  
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavparabhane&color=brightgreen)
+## 📬 Let's Connect!
+
+**Ready to collaborate on exciting data science projects?**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsparabhane@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavparabhane)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavparabhane)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+
+📱 **Call me:** +91 8010476947
+
+[![Open for Opportunities](https://img.shields.io/badge/🚀_Open_for_Opportunities-36BCF7?style=for-the-badge&labelColor=000000)](mailto:vaibhavsparabhane@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavparabhane&color=brightgreen&style=for-the-badge)
+
+</div>
