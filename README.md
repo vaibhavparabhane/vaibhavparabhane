@@ -2,7 +2,7 @@
 
 🚀 **Data Science & Analytics Enthusiast | AI Innovator | Building Data-Driven Solutions**
 
-Final-year AI & Data Science student passionate about extracting insights from data and building intelligent systems. Currently developing production-ready ML models and actively seeking **Summer 2026 internship opportunities**.
+Final-year AI & Data Science student passionate about extracting insights from data, performing advanced analytics, and building intelligent systems. Currently developing production-ready ML models and actively seeking **internships and full-time opportunities** in Data Science and Analytics.
 
 ## 🛠️ Tech Stack
 
@@ -21,9 +21,9 @@ Final-year AI & Data Science student passionate about extracting insights from d
 ## 🔥 Current Focus
 
 • 📊 **Building:** AI Trip Planner with predictive analytics and personalized recommendations  
-• 🤖 **Learning:** Advanced machine learning algorithms and deep learning architectures  
+• 🤖 **Learning:** Advanced machine learning algorithms and statistical analysis techniques  
 • 🎯 **Goal:** Complete 4 production-ready data science projects by December 2025  
-• 🔍 **Seeking:** Data Science and Analytics internship opportunities  
+• 🔍 **Seeking:** Data Science, Analytics, and AI internships & full-time roles  
 
 
 
